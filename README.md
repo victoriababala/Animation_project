@@ -7,7 +7,7 @@ This project analyzes a dataset of animated movies to extract meaningful insight
 ## 📁 Project Structure
 
 - [**`Animation_project.ipynb`**](/Animation_project.ipynb) – Jupyter Notebook with data analysis and visualizations.
-- **`README.md`** – Project overview and instructions.
+- [**`README.md`**](/README.md) – Project overview and instructions.
 - [**`Animation_Movies.csv`**](/Animation_Movies.csv) – Dataset used for analysis.
 - [**`Animation_project.pdf`**](/Animation_project.pdf) – Full report with findings. 
 
@@ -107,5 +107,3 @@ This project includes various static and animated charts created using `matplotl
 ## 🏁 Conclusion
 
 This project provides a comprehensive analysis of animated movies, identifying trends in production, profitability, and genre distribution. The use of animated visualizations enhances data storytelling, making insights more engaging.
-
-Would you like me to refine anything further? 😊
